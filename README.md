@@ -1,3 +1,5 @@
+![CI](https://github.com/ahmetgencer/tasky/actions/workflows/ci.yml/badge.svg)
+
 # Tasky
 
 **Full‑stack Task Manager** built with **.NET 9 (ASP.NET Core + EF Core 9 + MediatR)** and **React + Vite + Tailwind v4**. Clean architecture style with Domain/Application/Infrastructure/API layers, JWT auth, CQRS, Kanban drag & drop, and task comments.
