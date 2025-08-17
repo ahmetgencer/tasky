@@ -1,0 +1,23 @@
+# ---- .NET / Visual Studio
+**/bin/
+**/obj/
+.vs/
+*.user
+*.suo
+*.svclog
+
+# ---- Node / Vite
+web/**/node_modules/
+web/**/dist/
+web/**/.vite/
+web/**/coverage/
+
+# ---- Env & secrets
+**/.env
+*.env
+src/**/appsettings.*.local.json
+
+# ---- Logs & OS
+*.log
+.DS_Store
+Thumbs.db
